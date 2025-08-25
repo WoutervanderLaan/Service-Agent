@@ -2,8 +2,8 @@ from schemas.types import User
 
 
 fake_user_db = {
-    "wvdlaan@canvasheroes.com": {"uid": 123456, "name": "Wouter van der Laan"},
-    "wouter@canvasheroes.com": {"uid": 987654, "name": "Wouter Niekus"},
+    "test@test.com": {"uid": 123456, "name": "John Doe"},
+    "test2@test.com": {"uid": 987654, "name": "Jane Doe"},
 }
 
 
